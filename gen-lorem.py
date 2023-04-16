@@ -10,6 +10,6 @@ def create_file(size_mb):
 
 
 if __name__ == "__main__":
-    size_mb = 1
+    size_mb = 5
     create_file(size_mb)
 
