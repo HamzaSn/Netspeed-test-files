@@ -2,7 +2,7 @@
 Containing lorem lopsem files of diffrent sizes for network speed download and upload tests
 
 python code : 
-
+```
 import random
 
 def create_file(size_mb):
@@ -17,3 +17,4 @@ if __name__ == "__main__":
     #CHANGE THIS TO HOWEVER MB's 
     size_mb = 1 #MB
     create_file(size_mb)
+```
